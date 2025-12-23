@@ -1,0 +1,37 @@
+{
+  "training_accuracy_score": {
+    "value": 0.9578947368421052,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_precision_score": {
+    "value": 0.9596491228070176,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_recall_score": {
+    "value": 0.9578947368421052,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_f1_score": {
+    "value": 0.9572368421052632,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_roc_auc": {
+    "value": 0.9898989898989899,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_log_loss": {
+    "value": 0.14561234567890123,
+    "timestamp": 1734975259000,
+    "step": 0
+  },
+  "training_score": {
+    "value": 0.9578947368421052,
+    "timestamp": 1734975259000,
+    "step": 0
+  }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Documents/Project_akhir_MLFlow/Membangun_Model/mlruns/331069516776734371/7c88788c81ac4d17801de01eaac66fb9/artifacts
+end_time: 1766508864207
+entry_point_name: ''
+experiment_id: '331069516776734371'
+lifecycle_stage: active
+run_id: 7c88788c81ac4d17801de01eaac66fb9
+run_name: Basic_NB_Model
+run_uuid: 7c88788c81ac4d17801de01eaac66fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766508859828
+status: 3
+tags: []
+user_id: PC
