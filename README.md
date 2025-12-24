@@ -184,16 +184,6 @@ joblib==1.3.2
 setuptools (for MLflow compatibility)
 ```
 
-## Kriteria Penilaian yang Dipenuhi
-
-**Advance (4 pts):**
-- Melatih model ML menggunakan MLflow Tracking UI yang disimpan online dengan DagsHub
-- Menggunakan manual logging (bukan autolog) di modelling_tuning.py
-- Log metrics yang tercover autolog PLUS minimal 2 artifacts tambahan:
-  - Standard metrics: accuracy, precision, recall, F1
-  - Additional metrics: ROC-AUC, specificity, confusion matrix components
-  - Custom artifacts: confusion matrix, ROC curve, classification report, hyperparameter comparison
-
 ## Troubleshooting
 
 ### Error: "DAGSHUB_TOKEN environment variable not set!"
