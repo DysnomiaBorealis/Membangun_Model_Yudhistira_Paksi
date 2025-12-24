@@ -1,11 +1,3 @@
-"""
-Pelatihan Model Dasar dengan MLflow AutoLog
-Script ini melatih model Multinomial Naive Bayes untuk deteksi spam
-menggunakan fitur autolog dari MLflow.
-
-Author: Yudhistira Paksi
-"""
-
 import pandas as pd
 import mlflow
 import mlflow.sklearn

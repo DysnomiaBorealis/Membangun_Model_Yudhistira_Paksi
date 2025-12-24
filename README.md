@@ -2,8 +2,6 @@
 
 Project untuk pelatihan model machine learning spam detection menggunakan MLflow dan DagsHub integration.
 
-**Author:** Yudhistira Paksi
-
 ## Deskripsi Project
 
 Repository ini berisi implementasi pelatihan model Multinomial Naive Bayes untuk deteksi spam pada teks berbahasa Indonesia. Model dilatih menggunakan MLflow untuk tracking eksperimen dan DagsHub untuk penyimpanan online.

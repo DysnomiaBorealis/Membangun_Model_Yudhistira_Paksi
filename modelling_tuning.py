@@ -1,16 +1,3 @@
-"""
-Pelatihan Model Lanjutan dengan Hyperparameter Tuning dan Manual MLflow Logging
-Script ini melatih model deteksi spam dengan GridSearchCV dan logging ke DagsHub.
-
-Fitur:
-- Hyperparameter tuning dengan GridSearchCV
-- Manual MLflow logging (params, metrics, artifacts)
-- Custom artifacts: confusion matrix, ROC curve, classification report
-- Integrasi DagsHub untuk tracking online
-
-Author: Yudhistira Paksi
-"""
-
 import pandas as pd
 import numpy as np
 import mlflow
